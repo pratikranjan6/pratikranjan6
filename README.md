@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pratikranjan6&theme=tokyonight)](https://git.io/streak-stats)
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
