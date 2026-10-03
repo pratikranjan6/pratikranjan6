@@ -4,10 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Pratik%20Ranjan%20Bishwal&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%C2%B7%20Web%20Developer%20%C2%B7%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" width="100%"/>
 
-<a href="https://github.com/pratikranjan6">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Web+Developer+%F0%9F%8C%90+Flask+%7C+Vue.js;Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=pratikranjan6&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
@@ -168,10 +164,6 @@ A web-based parking management application for managing **vehicles, parking slot
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
