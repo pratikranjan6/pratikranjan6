@@ -121,15 +121,6 @@ I take pride in the **dedication and commitment** I bring to my work. For me, pu
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikranjan6&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
-
-</div>
-
----
 
 ## Featured Projects
 
@@ -153,16 +144,6 @@ A web-based parking management application for managing **vehicles, parking slot
 
 ---
 
-### Rakshabandhan
-
-A creative festival-themed web project designed to celebrate **Raksha Bandhan** using an interactive and visually appealing webpage.
-
-**Tech:** HTML · CSS
-
-[View Project →](https://github.com/pratikranjan6/Rakshabandhan)
-
----
-
 ## Currently Learning
 
 - Machine Learning & Data Science
@@ -182,7 +163,7 @@ A creative festival-themed web project designed to celebrate **Raksha Bandhan** 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pratikranjanbishwal/)">
+<a href="[https://www.linkedin.com/]">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
