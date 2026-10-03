@@ -20,27 +20,27 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Pratik Ranjan Bishwal**, an **aspiring Data Scientist and Web Developer** with a strong interest in **Data Science, Machine Learning, and Software Development**.
 
-🎓 I am currently pursuing a **BS in Data Science and Applications from IIT Madras**, alongside an **Integrated M.Sc. in Computer Science from the Central University of Rajasthan (CURAJ)**. This combination is helping me build a strong foundation in computer science, analytical thinking, and data-driven problem solving.
+I am currently pursuing a **BS in Data Science and Applications from IIT Madras**, alongside an **Integrated M.Sc. in Computer Science from the Central University of Rajasthan (CURAJ)**. This combination is helping me build a strong foundation in computer science, analytical thinking, and data-driven problem solving.
 
-💻 I enjoy turning ideas into **practical projects and real-world solutions**. I love learning and exploring new technologies and look forward to working more deeply with them to continuously expand my technical expertise.
+I enjoy turning ideas into **practical projects and real-world solutions**. I love learning and exploring new technologies and look forward to working more deeply with them to continuously expand my technical expertise.
 
-🚀 I take pride in the **dedication and commitment** I bring to my work. For me, putting consistent effort into something and seeing that effort translate into meaningful results is genuinely satisfying. I believe that continuous learning, disciplined work, and hands-on experience are essential for both professional and personal growth.
+I take pride in the **dedication and commitment** I bring to my work. For me, putting consistent effort into something and seeing that effort translate into meaningful results is genuinely satisfying. I believe that continuous learning, disciplined work, and hands-on experience are essential for both professional and personal growth.
 
-🌱 **Currently focused on:** Machine Learning, Data Science, Web Development, Data Structures & Algorithms, and building reliable software solutions.
+**Currently focused on:** Machine Learning, Data Science, Web Development, Data Structures & Algorithms, and building reliable software solutions.
 
-🤝 **Open to:** Collaborating on open-source projects, web applications, Data/ML projects, and connecting with people passionate about technology and innovation.
+**Open to:** Collaborating on open-source projects, web applications, Data/ML projects, and connecting with people passionate about technology and innovation.
 
-🌍 **Beyond technology:** I enjoy travelling, exploring new places, meeting new people, and building meaningful connections.
+**Beyond technology:** I enjoy travelling, exploring new places, meeting new people, and building meaningful connections.
 
 > **Always learning. Always building. 🚀**
 
 ---
 
-## 🎓 Education
+## Education
 
 | Institution | Program |
 | :--- | :--- |
@@ -49,7 +49,7 @@ I'm **Pratik Ranjan Bishwal**, an **aspiring Data Scientist and Web Developer** 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@ I'm **Pratik Ranjan Bishwal**, an **aspiring Data Scientist and Web Developer** 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -86,7 +86,7 @@ I'm **Pratik Ranjan Bishwal**, an **aspiring Data Scientist and Web Developer** 
 
 ---
 
-## 🧊 3D Contribution Graph
+## 3D Contribution Graph
 
 <div align="center">
 
@@ -96,7 +96,7 @@ I'm **Pratik Ranjan Bishwal**, an **aspiring Data Scientist and Web Developer** 
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -121,7 +121,7 @@ I'm **Pratik Ranjan Bishwal**, an **aspiring Data Scientist and Web Developer** 
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -131,9 +131,9 @@ I'm **Pratik Ranjan Bishwal**, an **aspiring Data Scientist and Web Developer** 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 MAD2 Hospital Management App
+### MAD2 Hospital Management App
 
 A full-stack hospital management system designed to manage **patients, doctors, appointments, prescriptions, treatments, and reports**.
 
@@ -143,7 +143,7 @@ A full-stack hospital management system designed to manage **patients, doctors, 
 
 ---
 
-### 🅿️ MAD1 Parking Lot Management System
+### MAD1 Parking Lot Management System
 
 A web-based parking management application for managing **vehicles, parking slots, parking records, and related operations**.
 
@@ -153,7 +153,7 @@ A web-based parking management application for managing **vehicles, parking slot
 
 ---
 
-### 🎀 Rakshabandhan
+### Rakshabandhan
 
 A creative festival-themed web project designed to celebrate **Raksha Bandhan** using an interactive and visually appealing webpage.
 
@@ -163,18 +163,18 @@ A creative festival-themed web project designed to celebrate **Raksha Bandhan** 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- 🤖 Machine Learning & Data Science
-- 🧠 Data Structures & Algorithms
-- 🌐 Advanced Web Development
-- 🗄️ Database Management
-- ⚙️ Software Development & System Concepts
-- 🚀 Building scalable and practical applications
+- Machine Learning & Data Science
+- Data Structures & Algorithms
+- Advanced Web Development
+- Database Management
+- Software Development & System Concepts
+- Building scalable and practical applications
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -182,7 +182,7 @@ A creative festival-themed web project designed to celebrate **Raksha Bandhan** 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/pratikranjanbishwal/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
