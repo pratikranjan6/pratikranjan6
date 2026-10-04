@@ -6,12 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pratikranjan6&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/pratikranjan6?label=Followers&style=flat-square&color=2ea44f" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/pratikranjan6?label=Stars&style=flat-square&color=e3b341" alt="Stars"/>
-
 </div>
 
 ---
